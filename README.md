@@ -10,16 +10,35 @@ library's activities.
 ## sections
 There are two sections in this system. 
 1. Admin portal
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](static/images/ScreenShots/1.png)
+![This is an image](static/images/ScreenShots/2.png)
+![This is an image](static/images/ScreenShots/3.png)
+![This is an image](static/images/ScreenShots/4.png)
+![This is an image](static/images/ScreenShots/5.png)
+![This is an image](static/images/ScreenShots/8.png)
+![This is an image](static/images/ScreenShots/9.png)
+![This is an image](static/images/ScreenShots/10.png)
+![This is an image](static/images/ScreenShots/11.png)
+![This is an image](static/images/ScreenShots/12.png)
+![This is an image](static/images/ScreenShots/13.png)
+
+
 2. Student portal
-![This is an image](https://docs.github.com/assets/cb-20366/images/help/repository/code-button.png)
+![This is an image](static/images/ScreenShots/6.png)
+![This is an image](static/images/ScreenShots/7.png)
+![This is an image](static/images/ScreenShots/14.png)
+![This is an image](static/images/ScreenShots/15.png)
+
+
+
+
 
 # Cloning a repository
 
 1. Open GitHub and go to the GitHub repository that you want to clone.
 2. Click “Code” and copy the given URL.
 
-![This is an image](https://www.educative.io/cdn-cgi/image/f=auto,fit=contain,w=1800/api/edpresso/shot/4580530784305152/image/5062914986213376.png)
+
 
 3. Open “Git Bash” and change the current working directory to the location where you want the cloned directory.
 4. Type git clone in the terminal, paste the URL you copied earlier, and press “enter” to create your local clone.
