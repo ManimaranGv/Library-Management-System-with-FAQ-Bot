@@ -49,15 +49,20 @@ There are two sections in this system.
 
 ![This is an image](static/images/ScreenShots/12.png)
 
+## View student
 
 
 ![This is an image](static/images/ScreenShots/13.png)
 
 
 ## Student portal
+## Student Signup
 ![This is an image](static/images/ScreenShots/6.png)
+## Student login
 ![This is an image](static/images/ScreenShots/7.png)
+## Student page
 ![This is an image](static/images/ScreenShots/14.png)
+## Book issued
 ![This is an image](static/images/ScreenShots/15.png)
 
 
